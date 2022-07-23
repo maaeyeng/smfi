@@ -1,5 +1,5 @@
 # TSFMFI Project 
-โครงการพัฒนาแพลต์ฟอร์มสมาร์ทฟาร์มที่ใช้blockchain ในด้านการจัดการข้อมูล การลงทุน
+โครงการพัฒนาแพลต์ฟอร์มสมาร์ทฟาร์มที่ใช้blockchain ในด้านการจัดการข้อมูลฟาร์ม พร้อมการจัดการการลงทุน
 
 # Content of table
 
@@ -12,6 +12,14 @@
 
 
 # Author 
+
+
+
+
+
+# Investment
+
+
+# Tema Develop
+
 innovationfull Team
-# smfi
-# smfi

@@ -81,5 +81,5 @@ innovationfull Team
 
 # Contributing
    ยินดีต้อนรับทุกการช่วยเหลือและการบริจาดในโครงการครั้งนี้ โดยมีรายละเอียดลิงค์นี้ <a href="./CONTRIBUTING.md"> CONTRIBUTING</a>
-<a href="https://ko-fi.com/mbbyaa"><img height="50" src="https://storage.ko-fi.com/cdn/useruploads/0d16c336-53df-4072-9e12-353637a1b776.png" />สมทบทุนในการพัฒนาโครงการ</a>
+<br /> Buy a Coffee for Project: <a href="https://ko-fi.com/mbbyaa"><img height="50" src="https://storage.ko-fi.com/cdn/useruploads/0d16c336-53df-4072-9e12-353637a1b776.png" />สมทบทุนในการพัฒนาโครงการ</a>
 # License

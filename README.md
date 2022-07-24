@@ -1,7 +1,16 @@
 # TSFMFI Project 
-โครงการพัฒนาแพลต์ฟอร์มสมาร์ทฟาร์มที่ใช้blockchain ในด้านการจัดการข้อมูลฟาร์ม พร้อมการจัดการการลงทุน
+โครงการพัฒนาแพลต์ฟอร์มสมาร์ทฟาร์มที่ใช้ blockchain ในด้านการจัดการข้อมูลฟาร์ม พร้อมการจัดการการลงทุน
 
 # Content of table
+* Introduction
+* Objective
+* Resources
+* Components
+* Knowleages
+* Investments
+* Author
+* Tearm Development
+
 
 # Introduction
 
@@ -20,6 +29,6 @@
 # Investment
 
 
-# Tema Develop
+# Tearm Develop
 
 innovationfull Team

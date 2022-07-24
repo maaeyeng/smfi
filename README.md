@@ -5,12 +5,14 @@
 * Introduction
 * Objective
 * Resources
+* Project Structure
 * Components
 * Knowleages
 * Investments
 * Author
-* Team Development
+* Team 
 * Contributing
+* License
 
 
 # Introduction
@@ -19,11 +21,27 @@
 
 
 # Objective
+1. พัฒนาระบบสมาร์ทฟาร์ม
+2. พัฒนาระบบ Blockchain
+3. พัฒนาระบบการลงทุน
+4. พัฒนาระบบการขายสำหรับฟาร์ม
+
 
 
 # Resources
+* FrontEnd : React
+* BackEnd API : Laravel
+* Blockchain : Web3js
+* Database : MySQL PostgreSQL
+* Language : HTML, CSS, Javascript, PHP, Python
 
 
+# Project Structure
+* Smart Farm Management
+* Blockchain module
+* Investment Managemnet 
+* Seller Management
+* Supplier Managment
 
 
 
@@ -36,7 +54,7 @@
 # Investment
 
 
-# Team Develop
+# Team 
 
 innovationfull Team
 

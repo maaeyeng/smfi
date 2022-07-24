@@ -32,14 +32,19 @@
 # Resources
 * FrontEnd : React
 * BackEnd API : Laravel
-* Blockchain : Web3js, Hardhat
+* Blockchain Network : Web3js, Hardhat
 * Database : MySQL PostgreSQL
 * Language : HTML, CSS, Javascript, PHP, Python
+* Smart Contract API : 
 
 
 # Project Structure
 * Smart Farm Management
-* Blockchain module
+    * Dashboard
+    * Add Farms
+    * Add Users
+    * Add Section
+* Blockchain Process
 * Investment Managemnet 
 * Seller Management
 * Supplier Managment
@@ -82,4 +87,5 @@ innovationfull Team
 # Contributing
    ยินดีต้อนรับทุกการช่วยเหลือและการบริจาดในโครงการครั้งนี้ โดยมีรายละเอียดลิงค์นี้ <a href="./CONTRIBUTING.md"> CONTRIBUTING</a>
 <br /> Buy a Coffee for Project: <a href="https://ko-fi.com/mbbyaa"><img height="50" src="https://storage.ko-fi.com/cdn/useruploads/0d16c336-53df-4072-9e12-353637a1b776.png" />สมทบทุนในการพัฒนาโครงการ</a>
+
 # License

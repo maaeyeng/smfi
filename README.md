@@ -41,4 +41,4 @@
 innovationfull Team
 
 # Contributing
-   ยินดีต้อนรับทุกการช่วยเหลือและการบริจาดในโครงการครั้งนี้ โดยมีรายละเอียดลิงค์นี้ <a href="CONTRIBUTING.md"> CONTRIBUTING</a>
+   ยินดีต้อนรับทุกการช่วยเหลือและการบริจาดในโครงการครั้งนี้ โดยมีรายละเอียดลิงค์นี้ <a href="./CONTRIBUTING.md"> CONTRIBUTING</a>

@@ -1,13 +1,5 @@
 # TSFMFI Project 
 โครงการพัฒนาแพลต์ฟอร์มสมาร์ทฟาร์มที่ใช้ blockchain ในด้านการจัดการข้อมูลฟาร์ม พร้อมการจัดการการลงทุน
-<code>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height=50 src="https://laravel.com/img/logomark.min.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</code>
 
 # Content of table
 * Introduction
@@ -15,6 +7,7 @@
 * Resources
 * Project Structure
 * Components
+* Getstrat
 * Knowleages
 * Investments
 * Author
@@ -25,14 +18,14 @@
 
 # Introduction
 
-
+โครงการพัฒนาแพลต์ฟอร์มสมาร์ทฟาร์มที่ใช้ blockchain ในด้านการจัดการข้อมูลฟาร์ม พร้อมการจัดการการลงทุน
 
 
 # Objective
-1. พัฒนาระบบสมาร์ทฟาร์ม
-2. พัฒนาระบบ Blockchain
-3. พัฒนาระบบการลงทุน
-4. พัฒนาระบบการขายสำหรับฟาร์ม
+1. พัฒนาระบบสมาร์ทฟาร์ม Blockchain ระบบการลงทุน และระบบการขาย
+2. รองการทำงานบนแพลต์ฟอร์มออนไลน์ในการทำกิจกรรมต่างๆ ได้แก่ การจัดการฟาร์ม การลงทุน และการขาย
+3. เพิ่มความสะดวกสบายในการใช้งานสำหรับฟาร์ม ผู้ลงทุน และลูกค้า
+
 
 
 
@@ -50,6 +43,20 @@
 * Investment Managemnet 
 * Seller Management
 * Supplier Managment
+
+# Getstrat
+
+
+
+# Components
+
+
+
+
+# Knowleage
+
+
+
 
 
 

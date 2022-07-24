@@ -56,6 +56,9 @@
 
 # Knowleage
 ## IoT
+* Camera
+* Wifi
+* Rubbery PI
 ## RestAPI
 ## Blockchain
 ## MachineLearning

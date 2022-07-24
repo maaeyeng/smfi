@@ -32,7 +32,7 @@
 # Resources
 * FrontEnd : React
 * BackEnd API : Laravel
-* Blockchain : Web3js
+* Blockchain : Web3js, Hardhat
 * Database : MySQL PostgreSQL
 * Language : HTML, CSS, Javascript, PHP, Python
 
@@ -55,8 +55,10 @@
 
 
 # Knowleage
-
-
+## IoT
+## RestAPI
+## Blockchain
+## MachineLearning
 
 
 
@@ -76,3 +78,5 @@ innovationfull Team
 
 # Contributing
    ยินดีต้อนรับทุกการช่วยเหลือและการบริจาดในโครงการครั้งนี้ โดยมีรายละเอียดลิงค์นี้ <a href="./CONTRIBUTING.md"> CONTRIBUTING</a>
+
+# License

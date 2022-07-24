@@ -9,14 +9,21 @@
 * Knowleages
 * Investments
 * Author
-* Tearm Development
+* Team Development
+* Contributing
 
 
 # Introduction
 
 
 
+
 # Objective
+
+
+# Resources
+
+
 
 
 
@@ -29,6 +36,9 @@
 # Investment
 
 
-# Tearm Develop
+# Team Develop
 
 innovationfull Team
+
+# Contributing
+   ยินดีต้อนรับทุกการช่วยเหลือและการบริจาดในโครงการครั้งนี้ โดยมีรายละเอียดลิงค์นี้ <a href="CONTRIBUTING.md"> CONTRIBUTING</a>
